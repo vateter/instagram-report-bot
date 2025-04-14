@@ -13,7 +13,7 @@ Instagram report bot are a tool designed to automate the process of reporting ac
 ## 🟢 GET THE TOOL
 <p align="center"> 
   <b>Get the tool:</b><br>
-  <a href="https://tinyurl.com/2p88dsd9"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
+  <a href="https://t.me/igreportt"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
 </p>  
 
 ---
